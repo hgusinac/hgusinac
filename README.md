@@ -1,6 +1,5 @@
 ### Hello Im Haris Gusinac 👋
 
-
 - 🔭 I’m currently working on Evrything
 - 🌱 I’m currently learning Java & React
 - 🤔 I’m looking for help with Java
