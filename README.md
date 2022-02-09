@@ -6,6 +6,9 @@
 - 💬 Ask me about enything im open to chat.
 - ⚡ Fun fact: Love fishing! 
 
+
+[![website](./img/globe-light.svg)](https://harisgusinac.com#gh-light-mode-only)
+
 ### Languages and Tools:
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="Csharp" width="26px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
