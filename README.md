@@ -6,8 +6,7 @@
 - 💬 Ask me about enything im open to chat.
 - :fish: Fun fact: Love fishing! 
 
-
--My website www.harisgusinac.com
+- :computer:My website www.harisgusinac.com
 
 ### Languages and Tools:
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
