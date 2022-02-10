@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java & React
 - 🤔 I’m looking for help with Java
 - 💬 Ask me about anything, I'm open to chat.
-- :fish: Fun fact: Love fishing! 
+- :fish: Fun fact:I love fishing! 
 
 - :computer:My website www.harisgusinac.com
 
