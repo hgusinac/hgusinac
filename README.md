@@ -1,9 +1,9 @@
 ### Hello Im Haris Gusinac 👋
 
-- 🔭 I’m currently working on Evrything
+- 🔭 I’m currently working on everything
 - 🌱 I’m currently learning Java & React
 - 🤔 I’m looking for help with Java
-- 💬 Ask me about enything im open to chat.
+- 💬 Ask me about anything, I'm open to chat.
 - :fish: Fun fact: Love fishing! 
 
 - :computer:My website www.harisgusinac.com
